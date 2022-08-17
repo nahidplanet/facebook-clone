@@ -12,7 +12,7 @@ const SinglePost = () => {
                                     </div>
                                     <div className='ml-2 leading-2'>
                                         <div className='name'>
-                                            <h1 className='font-semibold'>Nahid Hasan</h1>
+                                            <h1 className='font-semibold'>Nahid Hasan </h1>
                                         </div>
                                         <div className='privacy text-sm'>
                                             <span className='time'>2h</span> . <span>O</span>
@@ -20,7 +20,7 @@ const SinglePost = () => {
                                     </div>
                                 </div>
                                 {/* post details  */}
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus amet voluptatum eligendi quo sed placeat! Recusandae sit eius debitis aliquid. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum assumenda fuga vero illo obcaecati commodi, dolorem beatae praesentium labore, recusandae natus dolore inventore enim? Earum eius animi vero ipsum repellendus!
+                                Lorem ipsum, Nahid dolor sit amet consectetur adipisicing elit. Natus amet voluptatum eligendi quo sed placeat! Recusandae sit eius debitis aliquid. Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum assumenda fuga vero illo obcaecati commodi, dolorem beatae praesentium labore, recusandae natus dolore inventore enim? Earum eius animi vero ipsum repellendus!
 
                                 {/* react  */}
                                 <div className='react flex justify-between mt-3'>
